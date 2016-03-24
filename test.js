@@ -1,5 +1,5 @@
 
-var sorted = require('user/sortutil');
+var sorted = require('./user/sortutil.js');
 var assert = require('chai').assert;
 
 describe('挿入ソート',function(){
